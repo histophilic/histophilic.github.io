@@ -1,0 +1,22 @@
+body { color: white; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular; background-color: #9ccece }
+p { color: white; font-size: 0.8em; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular }
+pre { color: white; font-size: 0.8em; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular }
+blockquote { color: #ffc; font-size: 0.8em; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular }
+h1 { color: #639c9c; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular }
+h2 { color: #639c9c; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular }
+h3 { color: #639c9c; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular }
+h4 { color: #639c9c; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular }
+h5 { color: #639c9c; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular }
+h6 { color: #639c9c; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular }
+img { font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular; background-color: #eee; border: 0px }
+ol { color: #ffc; font-size: 0.8em; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular }
+ul { color: #ffc; font-size: 0.8em; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular; list-style-position: inside }
+a { color: #9cffff; font-size: 0.95em; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular }
+a:visited { color: #006363; font-size: 0.95em; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular }
+a:hover { color: #63ffff; font-size: 0.95em; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular }
+a:active { color: #9cffff; font-size: 0.95em; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular }
+tr { border: 0 }
+.cellcolor { background-color: #639c9c }
+.rev_type { color: white; font-weight: bold; font-size: 1em; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular; text-decoration: none }
+.g_nav_cellcolor { color: #ffffce; background-color: #9c9 }
+.a_type_color { color: #366; font-size: 0.9em; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular; text-decoration: none }
